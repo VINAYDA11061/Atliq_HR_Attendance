@@ -1,4 +1,4 @@
-# Atliq_HR_Attendance 
+# Atliq HR Attendance Analysis.
         
         Introduction : Atliq is an esteemed IT firm where the Hr manager wants to derive important insights regarding their employees attendance analysis in order to maintain better Work force management and make         decisions for employee well being. They want to know the Percentage of employees working status, preferences & Leaves opted.
 

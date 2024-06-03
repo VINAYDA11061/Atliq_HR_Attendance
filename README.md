@@ -1,7 +1,6 @@
-# Atliq_HR_Attendance
-
-Introduction : Atliq is an esteemed IT firm where the Hr manager wants to derive important insights regarding their employees attendance analysis in order to maintain better Work force management and make   
-               decisions for employee well being. They want to know the Percentage of employees working status, preferences & Leaves opted.
+# Atliq_HR_Attendance 
+        
+        Introduction : Atliq is an esteemed IT firm where the Hr manager wants to derive important insights regarding their employees attendance analysis in order to maintain better Work force management and make         decisions for employee well being. They want to know the Percentage of employees working status, preferences & Leaves opted.
 
 #### Objective:
 
@@ -53,14 +52,14 @@ Microsoft Software Power BI
 
 ### Recommendations and improvement techniques:
 
-  1.Attendance policy optimization: Some employee still prefer to work remotely then returning to office or may be facing challenges in attending in person.
-                                  HR should monitor closely and ensure employee engagement and address any underlying issues.
+      1.Attendance policy optimization: Some employee still prefer to work remotely then returning to office or may be facing challenges in attending in person
+                                        HR should monitor closely and ensure employee engagement and address any underlying issues.
 
-  2.Supportive Work Environment: Many employees prefer to work remote possibly influenced by factors such as flexibility, productivity or health converns.
-                                HR should evaluate effectiveness of WFH policies and infrastructure to support the trend.
+      2.Supportive Work Environment: Many employees prefer to work remote possibly influenced by factors such as flexibility, productivity or health converns.
+                                      HR should evaluate effectiveness of WFH policies and infrastructure to support the trend.
 
-  3. Flexible Sick Leave Policies : The increase in sick leaves may be due to seasonal illnesses, stress etc.Hr should explore the root causes behind this and
-                                  implement measures to support employee health and well being.Implement flexible sick leave policies
+      3. Flexible Sick Leave Policies : The increase in sick leaves may be due to seasonal illnesses, stress etc.Hr should explore the root causes behind this and
+                                        implement measures to support employee health and well being.Implement flexible sick leave policies
 
 ### Conclusion:
 
